@@ -4,3 +4,4 @@
 *.properties linguist-language=java
 *.xml linguist-language=java
 *.yml linguist-language=java
+*.java linguist-language=java
